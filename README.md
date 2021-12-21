@@ -8,5 +8,5 @@
 Athma18/Athma18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![This is an image](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.lpl.com%2Fcontent%2Fdam%2Flpl-www%2Fimages%2FArticle_Page%2FARTICLE-calculator-image-680x500.jpg&imgrefurl=https%3A%2F%2Fwww.lpl.com%2Fwork-with-a-financial-professional%2Fobjective-guidance%2Ftools-calculators.html&tbnid=_WzVDcfcXfezSM&vet=12ahUKEwjZk4qUwPT0AhXnkdgFHWl5CbUQMygZegUIARCOAg..i&docid=K1fZQaUv_DqqAM&w=680&h=500&q=calculator%20image&ved=2ahUKEwjZk4qUwPT0AhXnkdgFHWl5CbUQMygZegUIARCOAg)
+![This is an image](https://media.giphy.com/media/VPUDOCtW1p7LW/giphy.gif)
 
